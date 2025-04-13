@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Yash Parmar 👋
 
-<!--
-**YashParmar00/YashParmar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Full-Stack Developer | MERN Stack Enthusiast  
+📍 Based in Vadodara, India  
+🔭 Currently learning: Backend Development (Node.js, Express, MongoDB)  
+🌱 Skills: HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, Node.js, Express.js, MongoDB  
 
-Here are some ideas to get you started:
+## 🛠 Projects
+- ✅ [To-Do List App](https://github.com/YashParmar00/Todo-app)
+- 🧮 Calculator
+- 🔐 Password Generator
+- 📝 Notes App
+- 🔍 Product Filter + Search UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- ✉️ Email: yashsingh0033@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yash-parmar-b4658a259/)
+- 🌐 [GitHub Portfolio](https://github.com/YashParmar00)
+
+### 🌱 Always Learning!
+
+I'm constantly learning and growing in web development. If you'd like to collaborate or chat, feel free to reach out!
+
+Looking forward to connecting with fellow developers. 🤝
+
+Thanks for visiting! 🚀
