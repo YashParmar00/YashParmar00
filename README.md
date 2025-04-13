@@ -7,10 +7,10 @@
 
 ## 🛠 Projects
 - ✅ [To-Do List App](https://github.com/YashParmar00/Todo-app)
-- 🧮 Calculator
+- 🧮 [Calculator](https://github.com/YashParmar00/Calculator)
+- 📝 [Notes App](https://github.com/YashParmar00/NotesApp)
+- 🔍 [Product Filter + Search UI](https://github.com/YashParmar00/Filter-and-Product-Search-App)
 - 🔐 Password Generator
-- 📝 Notes App
-- 🔍 Product Filter + Search UI
 
 ## 📫 Contact Me
 - ✉️ Email: yashsingh0033@gmail.com
